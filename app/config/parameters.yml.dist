@@ -1,5 +1,6 @@
 parameters:
     api_url: https://api.elifesciences.org
+    api_url: https://api.elifesciences.org/
     api_url_public: '%api_url%'
     api_key: public
     side_by_side_view_url: https://lens.elifesciences.org/
@@ -21,3 +22,10 @@ parameters:
         Articles: articles
     oauth2_client_id: some-id
     oauth2_client_secret: ThisIsASecret
+    hypothes_is_authority: ~
+    hypothes_is_client_id_jwt: ~
+    hypothes_is_client_secret_jwt: ~
+    hypothes_is_client_id_create_user: ~
+    hypothes_is_client_secret_create_user: ~
+    hypothes_is_group: ijDGibQE
+    hypothes_is_api_url: https://hypothes.is/api/
